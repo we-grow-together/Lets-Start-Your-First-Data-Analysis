@@ -3,6 +3,11 @@
 
 ## 에피소드
 1. [퍼널 분석, 이렇게 시작하자!](funnel-analysis-basic.md)
+2. 퍼널, 실제로는 이렇게 쓴다.
+
+
+## 영상 보러가기
+[<img src="https://img.youtube.com/vi/kRPU70VG2GY/0.jpg" width="400">](http://bit.ly/2A5RFUd)
 
 ## Team
 - Dano [(dano@dano.ai)](mailto:dano@dano.ai)
