@@ -4,6 +4,9 @@
 ## 에피소드
 1. [퍼널 분석, 이렇게 시작하자!](funnel-analysis-basic.md)
 
+## Team
+- Dano [(dano@dano.ai)](mailto:dano@dano.ai)
+
 
 ## Contributors
 - 주민석 (영상제작 컨설팅)
