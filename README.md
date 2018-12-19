@@ -26,8 +26,8 @@
 고맙습니다.
 
 ## 라이센스
-이 프로젝트의 저작물이 최대한 유통되고 이용되기를 바라는 마음에 아래 라이센스를 사용합니다.
+이 프로젝트의 저작물이 최대한 유통되고 이용되기를 바라는 마음으로 CC BY 4.0 라이센스를 사용합니다.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ko">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ko" target=""_blank>Creative Commons Attribution 4.0 International License</a>.
 
 이 프로젝트의 저작물은 저작자를 올바르게 밝히기만 하면 배포, 리믹스, 변경 및 상업적 활용도 가능합니다.
